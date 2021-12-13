@@ -1,0 +1,8 @@
+{
+  "name": "ch2.darkMode",
+  "version": "1.0.0",
+  "description": "dark mode",
+  "main": "main.js",
+  "author": "mizhifei",
+  "license": "MIT"
+}
