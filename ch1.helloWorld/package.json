@@ -1,0 +1,14 @@
+{
+  "name": "ch1.helloWorld",
+  "version": "1.0.0",
+  "description": "hello electron",
+  "main": "main.js",
+  "author": "mizhifei",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
