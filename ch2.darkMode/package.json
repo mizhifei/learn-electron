@@ -4,5 +4,11 @@
   "description": "dark mode",
   "main": "main.js",
   "author": "mizhifei",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^16.0.4"
+  }
 }
