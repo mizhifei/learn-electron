@@ -1,2 +1,2 @@
 # learn-electron
-这是一个为初学者学习使用electron开发跨操作系统的客户端node项目。
+Electron practices for beginners.
